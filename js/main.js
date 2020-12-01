@@ -1,4 +1,4 @@
-import { Foo } from 'foo.js'
+import { Foo } from './foo.js'
 
 const f = new Foo('me');
 
