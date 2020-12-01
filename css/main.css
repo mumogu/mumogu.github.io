@@ -1,0 +1,38 @@
+html {
+    height: 100%;
+}
+
+body {
+    min-height: 100%;
+    background: rgb(235, 238, 239);
+}
+
+section {
+    display: block;
+    max-width: 806px;
+    margin: 0 auto;
+    background: white;
+    
+    margin-top: 24px;
+    margin-bottom: 24px;
+    border-radius: 5px;
+    border: 1px black;
+    box-shadow: 0 0 0 1px rgba(8, 9, 10, .1);
+}
+
+article {
+    padding: 32px 64px;
+}
+
+section img {
+    width: 100%;
+    border-radius: 5px 5px 0 0;
+}
+
+article img {
+    border-radius: 0;
+}
+
+figcaption {
+    text-align: right;
+}
