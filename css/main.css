@@ -8,7 +8,6 @@ body {
 }
 
 section {
-    display: block;
     max-width: 806px;
     margin: 0 auto;
     background: white;
