@@ -32,6 +32,26 @@ article img {
     border-radius: 0;
 }
 
+article h1 {
+    font-size: 2.5rem;
+}
+
 figcaption {
     text-align: right;
+}
+
+div.date {
+    border-bottom: 2px solid red;
+    display: inline-block;
+
+    margin-bottom: 36px;
+    font-style: italic;
+}
+
+code pre {
+    padding: 8px;
+    border-radius: 5px;
+    font-size: .8rem;
+    color: rgb(247, 247, 247);
+    background-color: rgb(10, 12, 12);
 }
